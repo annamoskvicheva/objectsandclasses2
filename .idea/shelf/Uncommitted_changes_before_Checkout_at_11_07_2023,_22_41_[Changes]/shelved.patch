@@ -1,0 +1,112 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"71445e92-dd8d-49cc-bb45-0868500670d1\" name=\"Changes\" comment=\"созданы классы, конструкторы и геттеры и сеттеры для них\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Merge.Settings\">\n    <option name=\"BRANCH\" value=\"main\" />\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"PUSH_AUTO_UPDATE\" value=\"true\" />\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\"><![CDATA[{\n  \"lastFilter\": {\n  }\n}]]></component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"0f327d19-46e9-4e5e-bad9-bb19b8af0352\" />\n        <option name=\"url\" value=\"https://github.com/breeze89768/objectsandclasses2.git\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2SNaRBfBgnDocYEQvVRH42Jxxwm\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"Main\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"lesson1.Main\" />\n      <module name=\"objects and classes2\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Main\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"71445e92-dd8d-49cc-bb45-0868500670d1\" name=\"Changes\" comment=\"\" />\n      <created>1688989481809</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1688989481809</updated>\n      <workItem from=\"1688989482854\" duration=\"4741000\" />\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"заигнорить\">\n      <created>1688989667434</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989667434</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"заигнорить\">\n      <created>1688989690675</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989690675</updated>\n    </task>\n    <task id=\"LOCAL-00003\" summary=\"заигнорить\">\n      <created>1688989703499</created>\n      <option name=\"number\" value=\"00003\" />\n      <option name=\"presentableId\" value=\"LOCAL-00003\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989703499</updated>\n    </task>\n    <task id=\"LOCAL-00004\" summary=\"заигнорить\">\n      <created>1688989767784</created>\n      <option name=\"number\" value=\"00004\" />\n      <option name=\"presentableId\" value=\"LOCAL-00004\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989767784</updated>\n    </task>\n    <task id=\"LOCAL-00005\" summary=\"заигнорить\">\n      <created>1688989783065</created>\n      <option name=\"number\" value=\"00005\" />\n      <option name=\"presentableId\" value=\"LOCAL-00005\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989783065</updated>\n    </task>\n    <task id=\"LOCAL-00006\" summary=\"заигнорить\">\n      <created>1688989826111</created>\n      <option name=\"number\" value=\"00006\" />\n      <option name=\"presentableId\" value=\"LOCAL-00006\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989826111</updated>\n    </task>\n    <task id=\"LOCAL-00007\" summary=\"заигнорить\">\n      <created>1688989842327</created>\n      <option name=\"number\" value=\"00007\" />\n      <option name=\"presentableId\" value=\"LOCAL-00007\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688989842327</updated>\n    </task>\n    <task id=\"LOCAL-00008\" summary=\"созданы классы, конструкторы и геттеры и сеттеры для них\">\n      <created>1688991943453</created>\n      <option name=\"number\" value=\"00008\" />\n      <option name=\"presentableId\" value=\"LOCAL-00008\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688991943453</updated>\n    </task>\n    <task id=\"LOCAL-00009\" summary=\"созданы классы, конструкторы и геттеры и сеттеры для них\">\n      <created>1688992316179</created>\n      <option name=\"number\" value=\"00009\" />\n      <option name=\"presentableId\" value=\"LOCAL-00009\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688992316179</updated>\n    </task>\n    <task id=\"LOCAL-00010\" summary=\"созданы классы, конструкторы и геттеры и сеттеры для них\">\n      <created>1688992373160</created>\n      <option name=\"number\" value=\"00010\" />\n      <option name=\"presentableId\" value=\"LOCAL-00010\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688992373160</updated>\n    </task>\n    <task id=\"LOCAL-00011\" summary=\"созданы классы, конструкторы и геттеры и сеттеры для них\">\n      <created>1688999501381</created>\n      <option name=\"number\" value=\"00011\" />\n      <option name=\"presentableId\" value=\"LOCAL-00011\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688999501381</updated>\n    </task>\n    <task id=\"LOCAL-00012\" summary=\"созданы классы, конструкторы и геттеры и сеттеры для них\">\n      <created>1688999523543</created>\n      <option name=\"number\" value=\"00012\" />\n      <option name=\"presentableId\" value=\"LOCAL-00012\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1688999523543</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"13\" />\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"создан пакет\" />\n    <MESSAGE value=\"созданы классы\" />\n    <MESSAGE value=\"заигнорить\" />\n    <MESSAGE value=\"созданы классы, конструкторы и геттеры и сеттеры для них\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"созданы классы, конструкторы и геттеры и сеттеры для них\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/lesson1/Main.java</url>\n          <option name=\"timeStamp\" value=\"1\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	
++++ b/.idea/workspace.xml	
+@@ -4,9 +4,7 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="71445e92-dd8d-49cc-bb45-0868500670d1" name="Changes" comment="созданы классы, конструкторы и геттеры и сеттеры для них">
+-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-    </list>
++    <list default="true" id="71445e92-dd8d-49cc-bb45-0868500670d1" name="Changes" comment="созданы классы, конструкторы и геттеры и сеттеры для них" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+@@ -20,7 +18,7 @@
+     </option>
+   </component>
+   <component name="Git.Merge.Settings">
+-    <option name="BRANCH" value="main" />
++    <option name="BRANCH" value="origin/lesson1.1" />
+   </component>
+   <component name="Git.Settings">
+     <option name="PUSH_AUTO_UPDATE" value="true" />
+@@ -31,10 +29,10 @@
+     </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+-  "lastFilter": {
++  <component name="GitHubPullRequestSearchHistory">{
++  &quot;lastFilter&quot;: {
+   }
+-}]]></component>
++}</component>
+   <component name="GithubPullRequestsUISettings">
+     <option name="selectedUrlAndAccountId">
+       <UrlAndAccount>
+@@ -52,18 +50,18 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "WebServerToolWindowFactoryState": "false",
+-    "node.js.detected.package.eslint": "true",
+-    "node.js.detected.package.tslint": "true",
+-    "node.js.selected.package.eslint": "(autodetect)",
+-    "node.js.selected.package.tslint": "(autodetect)",
+-    "vue.rearranger.settings.migration": "true"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager">
+     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="lesson1.Main" />
+@@ -87,6 +85,7 @@
+       <option name="presentableId" value="Default" />
+       <updated>1688989481809</updated>
+       <workItem from="1688989482854" duration="4741000" />
++      <workItem from="1688999705979" duration="222000" />
+     </task>
+     <task id="LOCAL-00001" summary="заигнорить">
+       <created>1688989667434</created>
+@@ -172,7 +171,28 @@
+       <option name="project" value="LOCAL" />
+       <updated>1688999523543</updated>
+     </task>
+-    <option name="localTasksCounter" value="13" />
++    <task id="LOCAL-00013" summary="созданы классы, конструкторы и геттеры и сеттеры для них">
++      <created>1688999716396</created>
++      <option name="number" value="00013" />
++      <option name="presentableId" value="LOCAL-00013" />
++      <option name="project" value="LOCAL" />
++      <updated>1688999716396</updated>
++    </task>
++    <task id="LOCAL-00014" summary="созданы классы, конструкторы и геттеры и сеттеры для них">
++      <created>1688999722044</created>
++      <option name="number" value="00014" />
++      <option name="presentableId" value="LOCAL-00014" />
++      <option name="project" value="LOCAL" />
++      <updated>1688999722044</updated>
++    </task>
++    <task id="LOCAL-00015" summary="созданы классы, конструкторы и геттеры и сеттеры для них">
++      <created>1688999731317</created>
++      <option name="number" value="00015" />
++      <option name="presentableId" value="LOCAL-00015" />
++      <option name="project" value="LOCAL" />
++      <updated>1688999731317</updated>
++    </task>
++    <option name="localTasksCounter" value="16" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
